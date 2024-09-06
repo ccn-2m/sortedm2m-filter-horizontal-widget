@@ -56,11 +56,6 @@ body.change-form .sortedm2m-container {
 
 /* BEGIN CUSTOMIZATION */
 
-/* Make the whole widget wider, to fit the extra buttons: */
-.selector {
-  width: 827px;
-}
-
 .selector ul.selector-chooser {
   float: left;
   width: 22px;
